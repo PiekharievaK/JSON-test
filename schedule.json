@@ -2,12 +2,11 @@
   {
     "id": "93670",
     "date": "2025-09-21",
-    "type": "group",
+    "type": "personal",
     "timeStart": "09:00",
-    "timeEnd": "14:00",
+    "timeEnd": "15:00",
     "location": "main",
     "instructors": [
-      "anna",
       "oleksandr"
     ],
     "slots": 12,
