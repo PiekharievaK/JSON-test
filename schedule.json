@@ -2,19 +2,6 @@
   "path": "schedule.json",
   "data": [
     {
-      "id": "9234",
-      "date": "2025-08-06",
-      "type": "group",
-      "timeStart": "10:00",
-      "timeEnd": "11:00",
-      "location": "main",
-      "instructors": [
-        "ksenia"
-      ],
-      "slots": 2,
-      "isEditing": true
-    },
-    {
       "id": "90234",
       "date": "2025-09-06",
       "type": "dog",
