@@ -2,12 +2,13 @@
   {
     "id": "93670",
     "date": "2025-09-21",
-    "type": "competition",
+    "type": "group",
     "timeStart": "09:00",
     "timeEnd": "14:00",
     "location": "main",
     "instructors": [
-      "anna"
+      "anna",
+      "oleksandr"
     ],
     "slots": 20,
     "preRegistration": true
