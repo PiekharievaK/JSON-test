@@ -304,5 +304,17 @@
       "anna"
     ],
     "slots": 3
+  },
+  {
+    "id": "1758011683946",
+    "date": "2025-09-20",
+    "type": "group",
+    "timeStart": "12:34",
+    "timeEnd": "16:34",
+    "location": "main",
+    "instructors": [
+      "ksenia"
+    ],
+    "slots": 2
   }
 ]
