@@ -326,5 +326,17 @@
     "location": "main",
     "instructors": [],
     "slots": 4
+  },
+  {
+    "id": "1758015010957",
+    "date": "2025-09-14",
+    "type": "group",
+    "timeStart": "14:30",
+    "timeEnd": "17:30",
+    "location": "main",
+    "instructors": [
+      "anna"
+    ],
+    "slots": 2
   }
 ]
