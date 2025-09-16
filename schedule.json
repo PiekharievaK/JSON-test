@@ -7,12 +7,11 @@
       "type": "group",
       "timeStart": "10:00",
       "timeEnd": "11:00",
-      "location": "main",
+      "location": "",
       "instructors": [
-        "anna",
-        "oleksandr"
+        "ksenia"
       ],
-      "slots": 8,
+      "slots": "",
       "isEditing": true
     },
     {
