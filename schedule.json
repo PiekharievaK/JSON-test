@@ -1,17 +1,5 @@
 [
   {
-    "id": "9330",
-    "date": "2025-09-09",
-    "type": "personal",
-    "timeStart": "18:00",
-    "timeEnd": "19:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 1
-  },
-  {
     "id": "93670",
     "date": "2025-09-21",
     "type": "competition",
