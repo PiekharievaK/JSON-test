@@ -9,7 +9,8 @@
       "timeEnd": "11:00",
       "location": "main",
       "instructors": [
-        "anna"
+        "anna",
+        "oleksandr"
       ],
       "slots": 8,
       "isEditing": true
