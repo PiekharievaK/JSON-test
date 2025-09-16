@@ -324,7 +324,9 @@
     "timeStart": "11:36",
     "timeEnd": "12:35",
     "location": "main",
-    "instructors": [],
+    "instructors": [
+      "oleksandr"
+    ],
     "slots": 4
   },
   {
