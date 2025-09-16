@@ -25,18 +25,6 @@
     "slots": 1
   },
   {
-    "id": "1758011770830",
-    "date": "2025-09-20",
-    "type": "individual",
-    "timeStart": "11:36",
-    "timeEnd": "12:35",
-    "location": "main",
-    "instructors": [
-      "anna"
-    ],
-    "slots": 1
-  },
-  {
     "id": "93670",
     "date": "2025-09-21",
     "type": "competition",
