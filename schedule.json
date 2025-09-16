@@ -282,6 +282,18 @@
         "Alex"
       ],
       "slots": 10
+    },
+    {
+      "id": "1758009410142",
+      "date": "2025-08-17",
+      "type": "individual",
+      "timeStart": "11:56",
+      "timeEnd": "13:56",
+      "location": "main",
+      "instructors": [
+        "oleksandr"
+      ],
+      "slots": 1
     }
   ]
 }
