@@ -292,5 +292,17 @@
       "oleksandr"
     ],
     "slots": 1
+  },
+  {
+    "id": "1758011631776",
+    "date": "2025-09-06",
+    "type": "dog",
+    "timeStart": "13:36",
+    "timeEnd": "13:37",
+    "location": "main",
+    "instructors": [
+      "anna"
+    ],
+    "slots": 3
   }
 ]
