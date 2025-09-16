@@ -2,18 +2,6 @@
   "path": "schedule.json",
   "data": [
     {
-      "id": "90234",
-      "date": "2025-09-06",
-      "type": "dog",
-      "timeStart": "11:30",
-      "timeEnd": "12:30",
-      "location": "main",
-      "instructors": [
-        "Alex"
-      ],
-      "slots": 5
-    },
-    {
       "id": "92340",
       "date": "2025-09-07",
       "type": "group",
