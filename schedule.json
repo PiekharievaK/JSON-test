@@ -2,19 +2,6 @@
   {
     "id": "92''40",
     "date": "2025-09-07",
-    "type": "group",
-    "timeStart": "10:30",
-    "timeEnd": "11:30",
-    "location": "main",
-    "instructors": [
-      "ksenia"
-    ],
-    "slots": 8,
-    "preRegistration": true
-  },
-  {
-    "id": "92''40",
-    "date": "2025-09-07",
     "type": "personal",
     "timeStart": "10:30",
     "timeEnd": "11:30",
