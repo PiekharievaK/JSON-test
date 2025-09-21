@@ -68,5 +68,27 @@
         "url": "https://www.instagram.com/dergachan"
       }
     ]
+  },
+  {
+    "id": "duzfic",
+    "photo": [
+      "іваві"
+    ],
+    "ua": {
+      "name": "іваів",
+      "role": "іваів",
+      "description": "іваів"
+    },
+    "en": {
+      "name": "іваів",
+      "role": "віаів",
+      "description": "іваів"
+    },
+    "socials": [
+      {
+        "platform": "telegram",
+        "url": "іваіва"
+      }
+    ]
   }
 ]
