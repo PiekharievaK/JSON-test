@@ -290,19 +290,5 @@
       "anna"
     ],
     "slots": 2
-  },
-  {
-    "id": "A6NbPZ",
-    "date": "2025-09-07",
-    "type": "group",
-    "timeStart": "14:17",
-    "timeEnd": "15:16",
-    "location": "main",
-    "instructors": [
-      "ksenia",
-      "anna",
-      "oleksandr"
-    ],
-    "slots": 1
   }
 ]
