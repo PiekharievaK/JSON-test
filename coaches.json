@@ -1,7 +1,9 @@
 [
   {
     "id": "ksenia",
-    "photo": ["/images/coach-1-photo.webp"],
+    "photo": [
+      "/images/coach-1-photo.webp"
+    ],
     "ua": {
       "name": "Ксенія",
       "role": "Директор організації, тренер",
@@ -25,7 +27,9 @@
   },
   {
     "id": "oleksandr",
-    "photo": ["/images/coach-2-photo.jpg"],
+    "photo": [
+      "/images/coach-2-photo.jpg"
+    ],
     "ua": {
       "name": "Олександр",
       "role": "Тренер",
@@ -45,7 +49,9 @@
   },
   {
     "id": "anna",
-    "photo": ["/images/coach-3.jpeg"],
+    "photo": [
+      "/images/coach-3.jpeg"
+    ],
     "ua": {
       "name": "Анна",
       "role": "Тренер, психолог",
@@ -60,6 +66,28 @@
       {
         "platform": "instagram",
         "url": "https://www.instagram.com/dergachan"
+      }
+    ]
+  },
+  {
+    "id": "icw3ab",
+    "photo": [
+      "іавф"
+    ],
+    "ua": {
+      "name": "фівф",
+      "role": "фівфіф",
+      "description": "фівфів"
+    },
+    "en": {
+      "name": "фівфі",
+      "role": "фівфі",
+      "description": "фівфівіф"
+    },
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "фівфііфs"
       }
     ]
   }
