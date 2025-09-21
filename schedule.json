@@ -10,5 +10,18 @@
       "ksenia"
     ],
     "slots": 1
+  },
+  {
+    "id": "KLc3GI",
+    "date": "2025-09-28",
+    "type": "group",
+    "timeStart": "02:53",
+    "timeEnd": "06:54",
+    "location": "main",
+    "instructors": [
+      "anna",
+      "oleksandr"
+    ],
+    "slots": 1
   }
 ]
