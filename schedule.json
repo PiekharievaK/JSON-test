@@ -290,5 +290,17 @@
       "anna"
     ],
     "slots": 2
+  },
+  {
+    "id": "KHVnEU",
+    "date": "2025-09-07",
+    "type": "personal",
+    "timeStart": "17:07",
+    "timeEnd": "22:05",
+    "location": "main",
+    "instructors": [
+      "oleksandr"
+    ],
+    "slots": 3
   }
 ]
