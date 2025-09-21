@@ -1,3 +1,14 @@
 [
-
+  {
+    "id": "913K1y",
+    "date": "2025-09-07",
+    "type": "personal",
+    "timeStart": "06:54",
+    "timeEnd": "05:53",
+    "location": "main",
+    "instructors": [
+      "ksenia"
+    ],
+    "slots": 1
+  }
 ]
