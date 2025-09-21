@@ -1,306 +1,72 @@
 [
   {
-    "id": "93670",
-    "date": "2025-09-05",
-    "type": "personal",
-    "timeStart": "09:00",
-    "timeEnd": "15:00",
-    "location": "main",
-    "instructors": [
-      "ksenia"
+    "id": "ksenia",
+    "photo": [
+      "/images/coach-1-photo.webp"
     ],
-    "slots": 6,
-    "preRegistration": true
+    "ua": {
+      "name": "Ксенія",
+      "role": "Директор організації, тренер",
+      "description": "Досвідчений тренер, яка знайде підхід до будь-якої ситуації"
+    },
+    "en": {
+      "name": "Ksenia",
+      "role": "Organization Director, Coach",
+      "description": "An experienced coach who can find an approach to any situation"
+    },
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ksenia.zhigalova/"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ksenia.zhigalova.3"
+      }
+    ]
   },
   {
-    "id": "97240",
-    "date": "2025-09-23",
-    "type": "group",
-    "timeStart": "19:00",
-    "timeEnd": "20:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
+    "id": "oleksandr",
+    "photo": [
+      "/images/coach-2-photo.jpg"
     ],
-    "slots": 7
+    "ua": {
+      "name": "Олександр",
+      "role": "Тренер",
+      "description": "Ветеран, який допоможе знайти баланс і відновитися як фізично, так і морально"
+    },
+    "en": {
+      "name": "Oleksandr",
+      "role": "Coach",
+      "description": "A veteran who will help you find balance and recover both mentally and physically"
+    },
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/alex_vit_kyiv/"
+      }
+    ]
   },
   {
-    "id": "9mvb0",
-    "date": "2025-10-04",
-    "type": "group",
-    "timeStart": "09:00",
-    "timeEnd": "10:00",
-    "location": "main",
-    "instructors": [
-      "oleksandr"
+    "id": "anna",
+    "photo": [
+      "/images/coach-3.jpeg"
     ],
-    "slots": 10
-  },
-  {
-    "id": "9dfg0",
-    "date": "2025-10-04",
-    "type": "personal",
-    "timeStart": "10:30",
-    "timeEnd": "11:30",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 1
-  },
-  {
-    "id": "9xcc0",
-    "date": "2025-10-05",
-    "type": "group",
-    "timeStart": "10:00",
-    "timeEnd": "11:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 9
-  },
-  {
-    "id": "aef90",
-    "date": "2025-10-05",
-    "type": "dog",
-    "timeStart": "11:30",
-    "timeEnd": "12:30",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 5
-  },
-  {
-    "id": "9,lj0",
-    "date": "2025-10-12",
-    "type": "competition",
-    "timeStart": "09:00",
-    "timeEnd": "14:00",
-    "location": "main",
-    "instructors": [
-      "oleksandr",
-      "ksenia"
-    ],
-    "slots": 15,
-    "preRegistration": true
-  },
-  {
-    "id": "9;kj0",
-    "date": "2025-10-08",
-    "type": "group",
-    "timeStart": "17:00",
-    "timeEnd": "18:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "9ooh0",
-    "date": "2025-10-16",
-    "type": "personal",
-    "timeStart": "18:00",
-    "timeEnd": "19:00",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 1
-  },
-  {
-    "id": "g-2025-09-13",
-    "date": "2025-09-13",
-    "type": "group",
-    "timeStart": "10:00",
-    "timeEnd": "11:00",
-    "location": "main",
-    "instructors": [
-      "ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-09-14",
-    "date": "2025-09-14",
-    "type": "group",
-    "timeStart": "11:00",
-    "timeEnd": "12:00",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-09-20",
-    "date": "2025-09-20",
-    "type": "group",
-    "timeStart": "10:00",
-    "timeEnd": "11:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-09-27",
-    "date": "2025-09-27",
-    "type": "group",
-    "timeStart": "11:30",
-    "timeEnd": "12:30",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-09-28",
-    "date": "2025-09-28",
-    "type": "group",
-    "timeStart": "10:00",
-    "timeEnd": "11:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-10-11",
-    "date": "2025-10-11",
-    "type": "group",
-    "timeStart": "09:30",
-    "timeEnd": "10:30",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-10-18",
-    "date": "2025-10-18",
-    "type": "group",
-    "timeStart": "10:00",
-    "timeEnd": "11:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-10-19",
-    "date": "2025-10-19",
-    "type": "group",
-    "timeStart": "11:00",
-    "timeEnd": "12:00",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-10-25",
-    "date": "2025-10-25",
-    "type": "group",
-    "timeStart": "09:00",
-    "timeEnd": "10:00",
-    "location": "main",
-    "instructors": [
-      "Ksenia"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "g-2025-10-26",
-    "date": "2025-10-26",
-    "type": "group",
-    "timeStart": "10:30",
-    "timeEnd": "11:30",
-    "location": "main",
-    "instructors": [
-      "Alex"
-    ],
-    "slots": 10
-  },
-  {
-    "id": "1758009410142",
-    "date": "2025-08-17",
-    "type": "personal",
-    "timeStart": "11:56",
-    "timeEnd": "13:56",
-    "location": "main",
-    "instructors": [
-      "oleksandr"
-    ],
-    "slots": 1
-  },
-  {
-    "id": "1758011631776",
-    "date": "2025-09-04",
-    "type": "group",
-    "timeStart": "13:36",
-    "timeEnd": "13:37",
-    "location": "main",
-    "instructors": [
-      "ksenia"
-    ],
-    "slots": 3
-  },
-  {
-    "id": "1758011683946",
-    "date": "2025-09-20",
-    "type": "group",
-    "timeStart": "12:34",
-    "timeEnd": "16:34",
-    "location": "main",
-    "instructors": [
-      "ksenia"
-    ],
-    "slots": 2
-  },
-  {
-    "id": "1758011770830",
-    "date": "2025-09-20",
-    "type": "dog",
-    "timeStart": "11:36",
-    "timeEnd": "12:35",
-    "location": "main",
-    "instructors": [
-      "oleksandr",
-      "ksenia"
-    ],
-    "slots": 6
-  },
-  {
-    "id": "1758015010957",
-    "date": "2025-09-14",
-    "type": "dog",
-    "timeStart": "14:30",
-    "timeEnd": "17:30",
-    "location": "main",
-    "instructors": [
-      "anna"
-    ],
-    "slots": 2
-  },
-  {
-    "id": "KHVnEU",
-    "date": "2025-09-07",
-    "type": "personal",
-    "timeStart": "17:07",
-    "timeEnd": "22:05",
-    "location": "main",
-    "instructors": [
-      "oleksandr"
-    ],
-    "slots": 3
+    "ua": {
+      "name": "Анна",
+      "role": "Тренер, психолог",
+      "description": "Досвідчений тренер і психолог, що допомагає у складних ситуаціях"
+    },
+    "en": {
+      "name": "Anna",
+      "role": "Coach, Psychologist",
+      "description": "An experienced coach and psychologist who helps in difficult situations"
+    },
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/dergachan"
+      }
+    ]
   }
 ]
