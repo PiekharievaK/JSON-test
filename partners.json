@@ -16,5 +16,27 @@
       "name": "e",
       "description": "w"
     }
+  },
+  {
+    "id": "TsND7J",
+    "image": "я",
+    "contacts": [
+      {
+        "title": "facebook",
+        "url": "ячс"
+      },
+      {
+        "title": "telegram",
+        "url": "ячс"
+      }
+    ],
+    "ua": {
+      "name": "чс",
+      "description": "сч"
+    },
+    "en": {
+      "name": "чс",
+      "description": "чс"
+    }
   }
 ]
