@@ -1,24 +1,20 @@
 [
   {
     "id": "",
-    "image": "фвфівф",
+    "image": "  vbcvbcvbcvb",
     "contacts": [
       {
-        "title": "facebook",
-        "url": "фівф"
-      },
-      {
-        "title": "website",
-        "url": "фівф"
+        "title": "instagram",
+        "url": "cvbvcb"
       }
     ],
     "ua": {
-      "name": "фвфі",
-      "description": "фівфі"
+      "name": "vbcvbc",
+      "description": "cvbc"
     },
     "en": {
-      "name": "фівфі",
-      "description": "фівфі"
+      "name": "cvbc",
+      "description": "cvbc"
     }
   }
 ]
