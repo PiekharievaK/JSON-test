@@ -23,5 +23,18 @@
       "oleksandr"
     ],
     "slots": 1
+  },
+  {
+    "id": "JjIdKF",
+    "date": "2025-09-07",
+    "type": "competition",
+    "timeStart": "08:15",
+    "timeEnd": "10:17",
+    "location": "main",
+    "instructors": [
+      "oleksandr",
+      "anna"
+    ],
+    "slots": 1
   }
 ]
