@@ -1,188 +1,130 @@
 [
   {
     "id": "sdf",
+    "schedule": "За попереднім записом",
     "category": "personal",
-    "icon": "ok-circle",
     "image": "https://i.ibb.co/TMZZtf6d/8-av3-U9o7p-B9u-Fq5a.jpg",
+    "icon": "kayak-1",
+    "benefits": [
+      {
+        "icon": "user",
+        "ua": "Персональний підхід",
+        "en": "Personalized approach"
+      },
+      {
+        "icon": "heart",
+        "ua": "Психологічна підтримка",
+        "en": "Emotional support"
+      },
+      {
+        "icon": "shield-alt",
+        "ua": "Безпечне середовище",
+        "en": "Safe environment"
+      }
+    ],
     "ua": {
       "title": "Індивідуальні",
-      "description": "Дозволяє зосередитись на особистих потребах ветерана, адаптувати навантаження та отримати психологічну підтримку в безпечному середовищі.",
-      "benefits": [
-        {
-          "title": "Персональний підхід",
-          "icon": "user"
-        },
-        {
-          "title": "Психологічна підтримка",
-          "icon": "heart"
-        },
-        {
-          "title": "Безпечне середовище",
-          "icon": "shield-alt"
-        },
-        {
-          "title": ",m.,m.,m",
-          "icon": "bed"
-        }
-      ],
-      "schedule": "За "
+      "description": "Дозволяє зосередитись на особистих потребах ветерана, адаптувати навантаження та отримати психологічну підтримку в безпечному середовищі."
     },
     "en": {
       "title": "One-on-One Training",
-      "description": "This type of training focuses on the veteran’s individual needs, offering customized guidance and emotional support in a safe environment.",
-      "benefits": [
-        {
-          "title": "Персональний підхід",
-          "icon": "user"
-        },
-        {
-          "title": "Психологічна підтримка",
-          "icon": "heart"
-        },
-        {
-          "title": "Безпечне середовище",
-          "icon": "shield-alt"
-        },
-        {
-          "title": ",m.,m.,m",
-          "icon": "bed"
-        }
-      ],
-      "schedule": "by appointment"
-    },
-    "schedule": "option1"
+      "description": "This type of training focuses on the veteran’s individual needs, offering customized guidance and emotional support in a safe environment."
+    }
   },
   {
     "id": "sdfпп",
+    "schedule": "Регулярно",
     "category": "group",
-    "icon": "two-boards",
     "image": "https://i.ibb.co/84fT54sc/8-Pox-MW2n-BAWFF8g3.jpg",
+    "icon": "two-boards",
+    "benefits": [
+      {
+        "icon": "users",
+        "ua": "Соціальна підтримка",
+        "en": "Social support"
+      },
+      {
+        "icon": "hands-helping",
+        "ua": "Командна робота",
+        "en": "Teamwork"
+      },
+      {
+        "icon": "users-cog",
+        "ua": "Спільнота однодумців",
+        "en": "Like-minded community"
+      }
+    ],
     "ua": {
       "title": "Групові",
-      "description": "Сприяє відновленню соціальних зв'язків, розвитку командної взаємодії та створює атмосферу підтримки серед однодумців.",
-      "benefits": [
-        {
-          "title": "Соціальна підтримка",
-          "icon": "users"
-        },
-        {
-          "title": "Командна робота",
-          "icon": "hands-helping"
-        },
-        {
-          "title": "Спільнота однодумців",
-          "icon": "users-cog"
-        }
-      ],
-      "schedule": "Регулярно"
+      "description": "Сприяє відновленню соціальних зв'язків, розвитку командної взаємодії та створює атмосферу підтримки серед однодумців."
     },
     "en": {
       "title": "Group Training",
-      "description": "Helps restore social connections, encourages teamwork, and creates a supportive atmosphere among like-minded people.",
-      "benefits": [
-        {
-          "title": "Social support",
-          "icon": "users"
-        },
-        {
-          "title": "Teamwork",
-          "icon": "hands-helping"
-        },
-        {
-          "title": "Like-minded community",
-          "icon": "users-cog"
-        }
-      ],
-      "schedule": "regularly"
-    },
-    "schedule": "option3"
+      "description": "Helps restore social connections, encourages teamwork, and creates a supportive atmosphere among like-minded people."
+    }
   },
   {
     "id": "sііііdf",
+    "schedule": "За попереднім записом",
     "category": "dog",
-    "icon": "dog-walker",
     "image": "https://i.ibb.co/VcjZj50g/8-7-BYkrkcaw-TL4-Qdyn.png",
+    "icon": "dog-walker",
+    "benefits": [
+      {
+        "icon": "paw",
+        "ua": "Зниження тривожності",
+        "en": "Reduced anxiety"
+      },
+      {
+        "icon": "heartbeat",
+        "ua": "Емоційна рівновага",
+        "en": "Emotional balance"
+      },
+      {
+        "icon": "hand-holding-heart",
+        "ua": "Довіра та спокій",
+        "en": "Trust and calm"
+      }
+    ],
     "ua": {
       "title": "Тренування з собакою",
-      "description": "Спілкування з собакою під час тренування знижує рівень стресу, покращує емоційний стан і формує відчуття безпеки та довіри.",
-      "benefits": [
-        {
-          "title": "Зниження тривожності",
-          "icon": "paw"
-        },
-        {
-          "title": "Емоційна рівновага",
-          "icon": "heartbeat"
-        },
-        {
-          "title": "Довіра та спокій",
-          "icon": "hand-holding-heart"
-        }
-      ],
-      "schedule": "За попереднім записом"
+      "description": "Спілкування з собакою під час тренування знижує рівень стресу, покращує емоційний стан і формує відчуття безпеки та довіри."
     },
     "en": {
       "title": "Training with a Dog",
-      "description": "Interacting with a dog during training reduces stress, improves emotional well-being, and fosters a sense of safety and trust.",
-      "benefits": [
-        {
-          "title": "Reduced anxiety",
-          "icon": "paw"
-        },
-        {
-          "title": "Emotional balance",
-          "icon": "heartbeat"
-        },
-        {
-          "title": "Trust and calm",
-          "icon": "hand-holding-heart"
-        }
-      ],
-      "schedule": "by appointment"
+      "description": "Interacting with a dog during training reduces stress, improves emotional well-being, and fosters a sense of safety and trust."
     }
   },
   {
     "id": "zmagnannya",
+    "schedule": "Раз на місяць",
     "category": "competition",
-    "icon": "trophy",
     "image": "https://i.ibb.co/dKPd5C6/competition-image.jpg",
+    "icon": "trophy",
+    "benefits": [
+      {
+        "icon": "running",
+        "ua": "Спортивний дух",
+        "en": "Competitive spirit"
+      },
+      {
+        "icon": "hands-helping",
+        "ua": "Командна підтримка",
+        "en": "Team support"
+      },
+      {
+        "icon": "medal",
+        "ua": "Нагороди та визнання",
+        "en": "Awards and recognition"
+      }
+    ],
     "ua": {
       "title": "Змагання",
-      "description": "Це програма, яка об'єднує ветеранів для участі у спортивних змаганнях, де вони можуть випробувати свої сили, відчути дух змагання та підтримку товаришів.",
-      "benefits": [
-        {
-          "title": "Спортивний дух",
-          "icon": "running"
-        },
-        {
-          "title": "Командна підтримка",
-          "icon": "hands-helping"
-        },
-        {
-          "title": "Нагороди та визнання",
-          "icon": "medal"
-        }
-      ],
-      "schedule": "Раз на місяць"
+      "description": "Це програма, яка об'єднує ветеранів для участі у спортивних змаганнях, де вони можуть випробувати свої сили, відчути дух змагання та підтримку товаришів."
     },
     "en": {
       "title": "Competitions",
-      "description": "This program brings veterans together to participate in sports competitions, where they can test their abilities, experience the spirit of competition, and receive support from their peers.",
-      "benefits": [
-        {
-          "title": "Competitive spirit",
-          "icon": "running"
-        },
-        {
-          "title": "Team support",
-          "icon": "hands-helping"
-        },
-        {
-          "title": "Awards and recognition",
-          "icon": "medal"
-        }
-      ],
-      "schedule": "once a month"
+      "description": "This program brings veterans together to participate in sports competitions, where they can test their abilities, experience the spirit of competition, and receive support from their peers."
     }
   }
 ]
