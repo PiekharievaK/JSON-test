@@ -13,10 +13,6 @@
     {
       "platform": "telegram",
       "url": "https://t.me/+NRVDKQZeY4Q2Njg6"
-    },
-    {
-      "platform": "twitter",
-      "url": "чсмчсм"
     }
   ],
   "ua": {
@@ -38,11 +34,6 @@
         "name": "Анна",
         "role": "Тренер",
         "instagram": "https://www.instagram.com/dergachan"
-      },
-      {
-        "name": "счмчсм",
-        "role": "чсмчмч",
-        "instagram": "чсмчсмчсмч"
       }
     ]
   },
@@ -65,10 +56,6 @@
         "name": "Anna",
         "role": "Coach",
         "instagram": "https://www.instagram.com/dergachan"
-      },
-      {
-        "name": "чсмчсмч",
-        "role": "чсмчсмчс"
       }
     ]
   }
