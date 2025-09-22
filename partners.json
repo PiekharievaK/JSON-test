@@ -1,20 +1,24 @@
 [
   {
     "id": "",
-    "image": "werwr",
+    "image": "фвфівф",
     "contacts": [
       {
-        "title": "instagram",
-        "url": "werwe"
+        "title": "facebook",
+        "url": "фівф"
+      },
+      {
+        "title": "website",
+        "url": "фівф"
       }
     ],
     "ua": {
-      "name": "werwe",
-      "description": "werwe"
+      "name": "фвфі",
+      "description": "фівфі"
     },
     "en": {
-      "name": "werwe",
-      "description": "werwe"
+      "name": "фівфі",
+      "description": "фівфі"
     }
   }
 ]
