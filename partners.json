@@ -1,20 +1,20 @@
 [
   {
     "id": "",
-    "image": "івацу",
+    "image": "asdsad",
     "contacts": [
       {
-        "title": "facebook",
-        "url": "іваі"
+        "title": "twitter",
+        "url": "asdas"
       }
     ],
     "ua": {
-      "name": "іва",
-      "description": "іва"
+      "name": "adasdas",
+      "description": "asdasda"
     },
     "en": {
-      "name": "іваі",
-      "description": "іваіа"
+      "name": "asdsa",
+      "description": "asdasd"
     }
   }
 ]
