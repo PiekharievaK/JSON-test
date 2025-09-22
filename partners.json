@@ -7,9 +7,14 @@
         "title": "instagram",
         "url": "https://www.instagram.com/supkayakclub_4storony/"
       },
-      { "title": "facebook", "url": "https://www.facebook.com/supkayakclub/" },
-      { "title": "telegram", "url": "https://t.me/skc4storony" },
-      { "title": "website", "url": "https://supkayakclub.kiev.ua/" }
+      {
+        "title": "facebook",
+        "url": "https://www.facebook.com/supkayakclub/"
+      },
+      {
+        "title": "website",
+        "url": "https://supkayakclub.kiev.ua/"
+      }
     ],
     "ua": {
       "name": "SUP Kayak Club 4 Storony",
