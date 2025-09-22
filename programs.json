@@ -5,7 +5,7 @@
     "icon": "dog",
     "image": "https://i.ibb.co/TMZZtf6d/8-av3-U9o7p-B9u-Fq5a.jpg",
     "ua": {
-      "title": "Індивідуальні",
+      "title": "Індъ",
       "description": "Дозволяє зосередитись на особистих потребах ветерана, адаптувати навантаження та отримати психологічну підтримку в безпечному середовищі.",
       "benefits": [
         {
@@ -21,7 +21,7 @@
           "icon": "shield-alt"
         }
       ],
-      "schedule": "За попереднім записом"
+      "schedule": "За "
     },
     "en": {
       "title": "One-on-One Training",
