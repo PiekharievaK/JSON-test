@@ -50,5 +50,19 @@
       "anna"
     ],
     "slots": 1
+  },
+  {
+    "id": "QXYIFl",
+    "date": "2025-10-19",
+    "type": "dog",
+    "timeStart": "10:43",
+    "timeEnd": "19:44",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "anna",
+      "oleksandr"
+    ],
+    "slots": 5
   }
 ]
