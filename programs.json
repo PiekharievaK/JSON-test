@@ -126,37 +126,5 @@
       "title": "Competitions",
       "description": "This program brings veterans together to participate in sports competitions, where they can test their abilities, experience the spirit of competition, and receive support from their peers."
     }
-  },
-  {
-    "id": "01LKjj",
-    "schedule": "option2",
-    "category": "",
-    "image": "sdfgvgfgd",
-    "icon": "dog-walker",
-    "benefits": [
-      {
-        "icon": "flag",
-        "ua": "yththty",
-        "en": "tyhty"
-      },
-      {
-        "icon": "contact-request",
-        "ua": "tyjyujuy",
-        "en": "yujyu"
-      },
-      {
-        "icon": "ok-circle",
-        "ua": "yujyuj",
-        "en": "yujyuj"
-      }
-    ],
-    "ua": {
-      "title": "sdfsd",
-      "description": "sdfsd"
-    },
-    "en": {
-      "title": "sdfsd",
-      "description": "sdfds"
-    }
   }
 ]
