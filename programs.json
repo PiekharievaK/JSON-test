@@ -19,6 +19,10 @@
         {
           "title": "Безпечне середовище",
           "icon": "shield-alt"
+        },
+        {
+          "title": ",m.,m.,m",
+          "icon": "bed"
         }
       ],
       "schedule": "За "
@@ -28,16 +32,20 @@
       "description": "This type of training focuses on the veteran’s individual needs, offering customized guidance and emotional support in a safe environment.",
       "benefits": [
         {
-          "title": "Personalized approach",
+          "title": "Персональний підхід",
           "icon": "user"
         },
         {
-          "title": "Emotional support",
+          "title": "Психологічна підтримка",
           "icon": "heart"
         },
         {
-          "title": "Safe environment",
+          "title": "Безпечне середовище",
           "icon": "shield-alt"
+        },
+        {
+          "title": ",m.,m.,m",
+          "icon": "bed"
         }
       ],
       "schedule": "by appointment"
