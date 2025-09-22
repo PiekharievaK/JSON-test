@@ -97,7 +97,7 @@
   },
   {
     "id": "zmagnannya",
-    "schedule": "Раз на місяць",
+    "schedule": "option1",
     "category": "competition",
     "image": "https://i.ibb.co/dKPd5C6/competition-image.jpg",
     "icon": "trophy",
