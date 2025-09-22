@@ -1,5 +1,5 @@
 [
-  {
+  {"id": "sdf",
     "category": "personal",
     "icon": "kayak-1",
     "image": "https://i.ibb.co/TMZZtf6d/8-av3-U9o7p-B9u-Fq5a.jpg",
@@ -24,7 +24,7 @@
       "schedule": "by appointment"
     }
   },
-  {
+  {"id": "sdfпп",
     "category": "group",
     "icon": "two-boards",
     "image": "https://i.ibb.co/84fT54sc/8-Pox-MW2n-BAWFF8g3.jpg",
@@ -45,7 +45,7 @@
       "schedule": "regularly"
     }
   },
-  {
+  {"id": "sііііdf",
     "category": "dog",
     "icon": "dog-walker",
     "image": "https://i.ibb.co/VcjZj50g/8-7-BYkrkcaw-TL4-Qdyn.png",
