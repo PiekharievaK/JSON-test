@@ -39,19 +39,6 @@
     "slots": 1
   },
   {
-    "id": "Xo7T87",
-    "date": "2025-09-28",
-    "type": "competition",
-    "timeStart": "15:13",
-    "timeEnd": "17:14",
-    "location": "main",
-    "instructors": [
-      "oleksandr",
-      "anna"
-    ],
-    "slots": 1
-  },
-  {
     "id": "Su3VlC",
     "date": "2025-09-13",
     "type": "dog",
