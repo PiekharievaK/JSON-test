@@ -50,5 +50,20 @@
       "anna"
     ],
     "slots": 1
+  },
+  {
+    "id": "Su3VlC",
+    "date": "2025-09-13",
+    "type": "dog",
+    "timeStart": "11:43",
+    "timeEnd": "23:59",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia",
+      "anna",
+      "oleksandr"
+    ],
+    "slots": 9
   }
 ]
