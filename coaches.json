@@ -64,5 +64,27 @@
         "url": "https://www.instagram.com/dergachan"
       }
     ]
+  },
+  {
+    "id": "zm1r2d",
+    "photo": [
+      ""
+    ],
+    "ua": {
+      "name": "Тінь",
+      "role": "Собака підтримки ",
+      "description": "Гарний хлопчик з гарним міхом та теплими обіймами"
+    },
+    "en": {
+      "name": "Shadow",
+      "role": "Support Animal",
+      "description": "Perfect good boy with lovely furr and warm hugs"
+    },
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/xholyolyax/"
+      }
+    ]
   }
 ]
