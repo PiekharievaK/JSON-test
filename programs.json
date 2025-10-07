@@ -1,23 +1,23 @@
 [
   {
     "id": "sdf",
-    "schedule": "option1",
+    "schedule": "option2",
     "category": "personal",
     "image": "https://i.ibb.co/TMZZtf6d/8-av3-U9o7p-B9u-Fq5a.jpg",
     "icon": "kayak-1",
     "benefits": [
       {
-        "icon": "user",
+        "icon": "heart-plus",
         "ua": "Персональний підхід",
         "en": "Personalized approach"
       },
       {
-        "icon": "heart",
+        "icon": "heart-like",
         "ua": "Психологічна підтримка",
         "en": "Emotional support"
       },
       {
-        "icon": "shield-alt",
+        "icon": "person-check",
         "ua": "Безпечне середовище",
         "en": "Safe environment"
       }
@@ -39,17 +39,17 @@
     "icon": "two-boards",
     "benefits": [
       {
-        "icon": "users",
+        "icon": "person-check",
         "ua": "Соціальна підтримка",
         "en": "Social support"
       },
       {
-        "icon": "hands-helping",
+        "icon": "heart-like",
         "ua": "Командна робота",
         "en": "Teamwork"
       },
       {
-        "icon": "users-cog",
+        "icon": "ok-circle",
         "ua": "Спільнота однодумців",
         "en": "Like-minded community"
       }
@@ -68,20 +68,20 @@
     "schedule": "option1",
     "category": "dog",
     "image": "https://i.ibb.co/VcjZj50g/8-7-BYkrkcaw-TL4-Qdyn.png",
-    "icon": "dog",
+    "icon": "dog-walker",
     "benefits": [
       {
-        "icon": "paw",
+        "icon": "heart-plus",
         "ua": "Зниження тривожності",
         "en": "Reduced anxiety"
       },
       {
-        "icon": "heartbeat",
+        "icon": "ok-circle",
         "ua": "Емоційна рівновага",
         "en": "Emotional balance"
       },
       {
-        "icon": "hand-holding-heart",
+        "icon": "person-check",
         "ua": "Довіра та спокій",
         "en": "Trust and calm"
       }
@@ -103,17 +103,17 @@
     "icon": "medal",
     "benefits": [
       {
-        "icon": "running",
+        "icon": "heart-plus",
         "ua": "Спортивний дух",
         "en": "Competitive spirit"
       },
       {
-        "icon": "hands-helping",
+        "icon": "ok-circle",
         "ua": "Командна підтримка",
         "en": "Team support"
       },
       {
-        "icon": "medal",
+        "icon": "heart-plus",
         "ua": "Нагороди та визнання",
         "en": "Awards and recognition"
       }
@@ -125,38 +125,6 @@
     "en": {
       "title": "Competitions",
       "description": "This program brings veterans together to participate in sports competitions, where they can test their abilities, experience the spirit of competition, and receive support from their peers."
-    }
-  },
-  {
-    "id": "B6HG6j",
-    "schedule": "option2",
-    "category": "",
-    "image": "data:image/jpeg;base64,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",
-    "icon": "dog-tag-military",
-    "benefits": [
-      {
-        "icon": "heart-plus",
-        "ua": "перевага 1",
-        "en": "фівфів"
-      },
-      {
-        "icon": "contact-request",
-        "ua": "перевага 2",
-        "en": "віавіаів"
-      },
-      {
-        "icon": "canoe-gondola",
-        "ua": "перевага 3",
-        "en": "віаіваівів"
-      }
-    ],
-    "ua": {
-      "title": "Соціальні заходи",
-      "description": "Кожні суботу та неділю збираємося напідтримку наших захисників. Місце і час повідомляємо напередодні у нашому інстаграм каналі."
-    },
-    "en": {
-      "title": "Social events",
-      "description": "Every Saturday and week we gather to support our defenders. The place and hour will be announced in advance on our Instagram channel."
     }
   }
 ]
