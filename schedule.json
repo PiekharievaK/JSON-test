@@ -52,5 +52,18 @@
       "oleksandr"
     ],
     "slots": 9
+  },
+  {
+    "id": "p36poo",
+    "date": "2025-10-12",
+    "type": "group",
+    "timeStart": "14:20",
+    "timeEnd": "16:20",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "anna"
+    ],
+    "slots": 6
   }
 ]
