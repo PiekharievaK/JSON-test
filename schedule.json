@@ -67,5 +67,18 @@
       "anna"
     ],
     "slots": 8
+  },
+  {
+    "id": "UglNPd",
+    "date": "2025-11-15",
+    "type": "group",
+    "timeStart": "10:00",
+    "timeEnd": "15:00",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "anna"
+    ],
+    "slots": 1
   }
 ]
