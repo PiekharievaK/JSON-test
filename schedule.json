@@ -53,5 +53,19 @@
       "oleksandr"
     ],
     "slots": 1
+  },
+  {
+    "id": "c6QYtG",
+    "date": "2025-11-15",
+    "type": "group",
+    "timeStart": "11:00",
+    "timeEnd": "14:00",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "oleksandr",
+      "anna"
+    ],
+    "slots": 8
   }
 ]
