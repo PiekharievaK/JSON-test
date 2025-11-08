@@ -80,5 +80,19 @@
       "anna"
     ],
     "slots": 1
+  },
+  {
+    "id": "MxrA9x",
+    "date": "2025-11-22",
+    "type": "dog",
+    "timeStart": "12:00",
+    "timeEnd": "13:30",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia",
+      "oleksandr"
+    ],
+    "slots": 1
   }
 ]
