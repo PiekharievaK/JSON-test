@@ -108,5 +108,18 @@
       "anna"
     ],
     "slots": 1
+  },
+  {
+    "id": "JG3plM",
+    "date": "2025-12-14",
+    "type": "personal",
+    "timeStart": "10:00",
+    "timeEnd": "15:00",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia"
+    ],
+    "slots": 1
   }
 ]
