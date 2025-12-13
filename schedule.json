@@ -121,5 +121,19 @@
       "ksenia"
     ],
     "slots": 1
+  },
+  {
+    "id": "De3P5D",
+    "date": "2025-12-21",
+    "type": "group",
+    "timeStart": "10:01",
+    "timeEnd": "16:01",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia",
+      "anna"
+    ],
+    "slots": 1
   }
 ]
