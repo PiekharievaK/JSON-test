@@ -94,5 +94,19 @@
       "oleksandr"
     ],
     "slots": 1
+  },
+  {
+    "id": "3LIlDi",
+    "date": "2025-12-13",
+    "type": "dog",
+    "timeStart": "11:00",
+    "timeEnd": "13:00",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "oleksandr",
+      "anna"
+    ],
+    "slots": 1
   }
 ]
