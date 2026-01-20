@@ -149,5 +149,18 @@
       "anna"
     ],
     "slots": 4
+  },
+  {
+    "id": "5CDlm0",
+    "date": "2026-01-24",
+    "type": "dog",
+    "timeStart": "13:30",
+    "timeEnd": "03:30",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia"
+    ],
+    "slots": 1
   }
 ]
