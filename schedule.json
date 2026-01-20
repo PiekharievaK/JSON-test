@@ -135,5 +135,19 @@
       "anna"
     ],
     "slots": 1
+  },
+  {
+    "id": "BRvZiH",
+    "date": "2026-01-22",
+    "type": "personal",
+    "timeStart": "11:10",
+    "timeEnd": "13:10",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "ksenia",
+      "anna"
+    ],
+    "slots": 4
   }
 ]
