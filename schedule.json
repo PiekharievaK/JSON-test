@@ -162,5 +162,18 @@
       "ksenia"
     ],
     "slots": 1
+  },
+  {
+    "id": "Y8MfOv",
+    "date": "2026-01-25",
+    "type": "group",
+    "timeStart": "02:15",
+    "timeEnd": "04:15",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "oleksandr"
+    ],
+    "slots": 1
   }
 ]
