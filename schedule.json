@@ -175,5 +175,18 @@
       "oleksandr"
     ],
     "slots": 1
+  },
+  {
+    "id": "BZBD0l",
+    "date": "2026-01-24",
+    "type": "competition",
+    "timeStart": "15:17",
+    "timeEnd": "04:17",
+    "location": "main",
+    "link": "",
+    "instructors": [
+      "anna"
+    ],
+    "slots": 1
   }
 ]
